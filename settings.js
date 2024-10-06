@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'LfgBSIqR#XER2lebov-BkOcltY3jKUZEsAn26CNOfp9OrM3EeHPc',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb://mongo:nCGhfdpPfUhaXKnDeRZKZaxWVrXZKOFi@mongodb.railway.internal:27017', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
@@ -38,7 +38,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
-  INBOX_BLOCK: false,
+  INBOX_BLOCK: true,
   OWNER_REACT: true,
   AUTO_REACT: true,
   ONLY_PM_GROUP_MSG_SEND: false,
